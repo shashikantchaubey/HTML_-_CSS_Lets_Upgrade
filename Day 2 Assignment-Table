@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Tables</title>
+    <style>
+        td
+        {
+           text-align: center;
+        }
+        table,th,td
+        {
+            border: 3px black solid;
+            background-color:aqua;
+        }
+        table.center {
+            margin-left: auto;
+            margin-right: auto;
+        }
+    </style>
+
+</head>
+<body style = "background-color:aquamarine;">
+    <table>
+        <caption ><h1>Languages used in Web Developmnet</h1></caption>
+        <tr>
+            <th>Short Name</th>
+            <th>Full Name</th>
+        </tr>
+
+        <tr>
+            <td>HTML</td>
+            <td>Hyper Text Markup Language</td>
+
+        </tr>
+
+        <tr>
+            <td>CSS</td>
+            <td>Cascading Styling Sheet</td>
+        </tr>
+
+        <tr>
+            <td>JS</td>
+            <td>JavaScript</td>
+
+        </tr>
+
+        <tr>
+            <td>PHP</td>
+            <td>Hypertext Preproccesor</td>
+        </tr>
+    </table>
+    
+    
+</body>
+</html>
