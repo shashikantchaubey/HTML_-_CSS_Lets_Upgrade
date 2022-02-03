@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <title>Day 1 Assignment </title>
+   
+</head>
+<body style="background-color:yellow;">
+    <h1>
+        Shashikant Chaubey
+        
+    </h1>
+    
+    <h2>
+        Why do you want to learn HTML CSS: ZERO TO HERO?
+    </h2>
+
+    <h3>
+        <pre>
+        Faster Websites. CSS makes HTML pages smaller in file size, thereby speeding page download times.
+        World Wide Web Consortium (W3C) Recommendation. 
+        Easy To Edit.
+        Easy To Control. 
+        No Need For Extra Codes. 
+        Easy To Update. 
+      
+        </pre>
+    </h3>
+    
+</body>
+</html>
